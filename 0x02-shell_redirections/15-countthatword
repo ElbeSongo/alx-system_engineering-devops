@@ -1,1 +1,2 @@
-egrep -C "bin" /rtc/passwd
+#!/bin/bash
+egrep -C "bin" /etc/passwd
