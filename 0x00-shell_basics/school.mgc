@@ -1,2 +1,2 @@
-file -C -m magic_filename
-magic_filename.mgc
+0 string SCHOOL School data files
+!:mime School
